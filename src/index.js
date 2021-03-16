@@ -1,5 +1,7 @@
-import {tyler, bruner, cade} from 'js-library'
+import * as jsLib from 'js-library'
 
-tyler()
-// cade()
-console.log(bruner(false))
+
+
+console.log(jsLib.tyler())
+
+
